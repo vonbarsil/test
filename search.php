@@ -1,13 +1,7 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Flat a Real Estate Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Online Farm Shop</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -58,24 +52,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
 							</button>
-							<h1><a  href="index.html">Flat<span>Property Value</span></a></h1>
+							<h2><a  href="index.php">Garfield</a></h2>
 						</div>
 						<!-- navbar-header -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav navbar-right">
-									<li class="scroll hvr-outline-in"><a href="index.html">Home</a></li>
-									<li><a class="scroll hvr-outline-in" href="#about">About</a></li>
-									<li><a class="scroll hvr-outline-in" href="#services">Services</a></li>
-									<li class="dropdown menu__item">
-										<a href="#" class="dropdown-toggle menu__link hvr-outline-in"  data-toggle="dropdown" data-hover="Pages" role="button" aria-haspopup="true" aria-expanded="false">Dropdown<span class="caret"></span></a>
-										<ul class="dropdown-menu">
-									<li><a class="scroll hvr-outline-in" href="#agents">Agents</a></li>
-									<li><a class="scroll hvr-outline-in" href="#properties">Properties</a></li>
+									<li class="scroll hvr-outline-in"><a href="index.php">Home</a></li>
+									<li><a class="scroll hvr-outline-in" href="about.php">About</a></li>
+									<li><a class="scroll hvr-outline-in" href="contact.php">Contact</a></li>
 										</ul>
-									</li>
-									<li><a class="scroll hvr-outline-in" href="#customer">Testimonials</a></li>
-									<li><a class="scroll hvr-outline-in" href="#contact">Contact</a></li>
-							  </ul>
 						</div>
 						<div class="clearfix"> </div>	
 					</nav>
@@ -86,34 +71,42 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="w3-banner-head-info">
 				<div class="container">
 				   <div class="banner-text">
-						<h2>owing a home is a keystone of wealth</h2>
+						<h2><font color="aqua">Healthy eating is a keystone of wealth</h2></aqua>
 						<div class="book-form">
 						   <form action="#" method="post">
-								<div class="col-md-3 form-time-w3layouts">
-										<label><i class="fa fa-user" aria-hidden="true"></i> Name</label>
-										<input type="text" placeholder="Name" required="">
-								</div>
 								<div class="col-md-3 form-date-w3-agileits">
 										<label><i class="fa fa-map-marker" aria-hidden="true"></i> Location</label>
 										<select class="form-control">
-											<option>India</option>
-											<option>Japan</option>
-											<option>America</option>
-											<option>London</option>
-											<option>Paris</option>
+										<option>Kagio</option>	
+										<option>Kerugoya</option>
+										<option>Kianyaga</option>
+											<option>Kutus</option>
+											<option>Mwea</option>
+											<option>Sagana</option>
+											<option></option>
 										</select>
 								</div>
 								<div class="col-md-3 form-left-agileits-w3layouts ">
 										<label><i class="fa fa-home" aria-hidden="true"></i> Category</label>
 										<select class="form-control">
-											<option>Real estate</option>
-											<option>Real Homes</option>
-											<option>Apartments</option>
-											<option>Real Flats</option>
+											<option>Green Maize</option>
+											<option>Dry Maize</option>
+											<option>Carrots</option>
+											<option>Tomatoes</option>
+											<option>Onions</option>
+											<option>Kales</option>
+											<option>Cabbages</option>
+											<option>Managu</option>
+											<option>Dhania</option>
+											<option>Pumpkins</option>
+											<option>Rose Mary</option>
+											<option>Beans</option>
+											<option>Potatoes</option>
+											<option>Sweet Potatoes</option>
 										</select>
 								</div>
 								<div class="col-md-3 form-left-agileits-submit">
-									  <input type="submit" value="Book your estate">
+									  <input type="submit" value="Search">
 								</div>
 								<div class="clearfix"></div>
 							</form>
